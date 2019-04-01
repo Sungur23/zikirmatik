@@ -1,0 +1,329 @@
+<resources>
+    <string name="app_name">Esmaül Hüsna Zikir Matik</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="a">kadir yapar merhaba nasılsınız iyimisiniz</string>
+
+    <color name="arkaplan">#009688</color>
+    <color name="buton_rengi">#004D40</color>
+    <color name="buton_rengi_pres">#00bfa5</color>
+
+
+    <string-array name="renk_pozisyon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+
+    <string-array name="ZikirManasi">
+        <item></item>
+        <item>Her türlü istek, tüm duaların kabul olması için </item>
+        <item>Dünyada ve ahirette Allah\'ın sevgisini kazanmak için</item>
+        <item>Maddi ve manevi rızka nail olmak için</item>
+        <item>Maddi ve manevi güçlü olmak, insanlara sözlerini anlatıp dinletebilmek, emir sahibi olmak için</item>
+        <item>Maddi ve manevi her türlü temizlik, kalp temizliği, ruhi hastalıklardan iyileşmek için</item>
+        <item>Korkulan herşeyden emin olmak ve esenliğe çıkmak için</item>
+        <item>Güvende olmak, güvenilir olmak, kötü hastalıklara düşmemek için</item>
+        <item>İnsanlardan korunmak ve onların düşüncelerine akıl erdirebilmek için</item>
+        <item>Düşmanlara galip gelmek için</item>
+        <item>İstek ve arzuların olması, insanların ve cinlerin şerrinden emin olmak için</item>
+        <item>İzzet, refah ve gerçek büyüklüğe erişmek, halk tarafından sevilmek için</item>
+        <item>İşlerde üzüntü ve sıkıntıdan kurtulmak, başarılı olmak için</item>
+        <item>İşte başarılı olmak, maddi ve manevi sıkıntılardan kurtulmak için</item>
+        <item>En zor işleri başarmak için</item>
+        <item>Bağışlanmak ve günahlardan korunmak için</item>
+        <item>Zalimlerin ve din düşmanlarının kahrından kurtulmak için</item>
+        <item>Sıkıntısız ve maddi açıdan rahat bir hayat sürmek için</item>
+        <item>Bol rızıklı bir ömür için</item>
+        <item>Maddi ve manevi hayır kapılarının açılması, ticarette başarıya ulaşmak için</item>
+        <item>İlim zenginliği için</item>
+        <item>Zalimin zulmünden kurtulmak için</item>
+        <item>Rızkının genişlemesi ve bereketin artması için</item>
+        <item>Kötüden, kötülerden ve belalardan korunmak için</item>
+        <item>İnsanlar içinde ve işinde yükselmek, tevazu sahibi olmak için</item>
+        <item>Fakir ve zelillikten kurtulmak için</item>
+        <item>Düşmanları zelil etmek için</item>
+        <item>Duaların kabul olması için</item>
+        <item>Acziyetin kalkması, basiretli olmak için</item>
+        <item>Haklı davasını kazanmak, insanlar arasında hak ile hüküm vermek için</item>
+        <item>Adaletli olmak, haklı davayı kazanmak için</item>
+        <item>Dileklerin olması, kısmet ve rızkın artması için</item>
+        <item>Hafıza ve idrakin genişlemesi için</item>
+        <item>Ahlak güzelliği ve yumuşak huylu olmak, hiddet ve sinirin gitmesi için</item>
+        <item>Sözünün tesirli olması ve sözü dinlenir olmak için </item>
+        <item>Günahların affı ve kötü ahlaktan korunmak için</item>
+        <item>Talihin açıklığı, kendine verilen nimetlerin şükrünü eda etmek için</item>
+        <item>Zilletten kurtulmak, ilim derecelerinin artması için</item>
+        <item>Maddi ve manevi büyüklük, hürmet sahibi olmak için</item>
+        <item>Nefsinin ve malının korunması için</item>
+        <item>Muhtaç olunan şeyi kazanmak için</item>
+        <item>Herkese karşı açık alınlı olmak için</item>
+        <item>Gerçek yüceliğe erişmek, zalim ve zorbayı zelil etmek için</item>
+        <item>Cömert olmak ve kolaylıklara nail olmak için </item>
+        <item>Hafızanın kuvvetlenmesi için</item>
+        <item>Duaların kabul olması için</item>
+        <item>Ömür uzunluğu, sıhhat ve rızık genişliği için</item>
+        <item>İlim ve hikmet sahibi olmak için</item>
+        <item>İnsanların sevgisini kazanmak için</item>
+        <item>İzzet ve şerefin artması için</item>
+        <item>Kuvvetli irade ve alacaklarını almak için</item>
+        <item>Şehidlik mertebesine erişmek için</item>
+        <item>Sağlam bir imana sahip olmak için</item>
+        <item>Allahtan her türlü yardımı görmek için</item>
+        <item>Kansızlık ve vücudun güçlü olması için</item>
+        <item>Maddi ve manevi dayanıklılık ve hastalıklardan kurtulmak için</item>
+        <item>Her işte Allahın yardımını istemek için</item>
+        <item>Allaha çokça Hamd etmek ve kazancın genişlemesi için</item>
+        <item>Zekanın kuvvetli olması için</item>
+        <item>Her işte muvaffak olmak için</item>
+        <item>Elden kaçanı geri kazanmak için</item>
+        <item>İşlerin başarılı olması için </item>
+        <item>Harama bakmamak, devamlı ahireti hatırlamak için</item>
+        <item>Sözün tesirli olması için</item>
+        <item>Bütün işlerde yardımı Allahtan beklemek için</item>
+        <item>Aradığını ve kaybettiğini bulmak için</item>
+        <item>Kazancın bolluğu ve şerefli bir hayat için</item>
+        <item>İsteklerin olması için</item>
+        <item>Hiç kimseye muhtaç olmamak için</item>
+        <item>İstediğini yapmaya güç yetirmek için</item>
+        <item>Her işte başarılı olmak için</item>
+        <item>Daima yükselmek için</item>
+        <item>Kötü ve belalı birinin kendinden uzaklaşması için</item>
+        <item>Her hayır işinde birinci olmak için</item>
+        <item>Ömrün uzun olması için</item>
+        <item>Her meselenin açıklığı için</item>
+        <item>İstediği makama gelmek için</item>
+        <item>İç rahatlığı için</item>
+        <item>Sözünün tesirli olması için</item>
+        <item>Her halükarda iyilik bulmak için</item>
+        <item>Tövbelerin kabul olması için</item>
+        <item>Zulüm ve fenalıklardan korunmak için</item>
+        <item>Rızık bolluğu, kalp huzuru ve affedilmek için</item>
+        <item>Merhametinin artması hiçbir varlıktan zarar görmemek için</item>
+        <item>Mal ve kazanca zarar gelmemesi için</item>
+        <item>İşlerin kolay ve asan olması için</item>
+        <item>Eşlerin arasını düzeltmek ve adaletli olmak için</item>
+        <item>Küsleri barıştırmak ve hayırların birleşip toplanması için</item>
+        <item>Servet ve geniş rızık için</item>
+        <item>Geçim genişliği için</item>
+        <item>Kaza ve belalardan emin olmak için</item>
+        <item>Zararlı kişilerden emin olmak için</item>
+        <item>Hastalıklardan korunmak için</item>
+        <item>Doğruyu ve yanlışı görüp, kalp nuruna sahip olmak için</item>
+        <item>Doğru yolu bulmak ve çocuklarının serkeş olmaması için</item>
+        <item>Maddi ve manevi güzellik için</item>
+        <item>Ömrün uzunluğu ve sağlıklı olmak için</item>
+        <item>Uzun ömür, bol mal, şeref ve rızık sahibi olmak için</item>
+        <item>Güzel ahlak sahibi olmak için</item>
+        <item>Sinirini yenmek ve sabırlı olmak için</item>
+    </string-array>
+
+    <string-array name="Zikirler">
+        <item>Ekranı Temizle</item>
+        <item>Ya Allah 66 adet </item>
+        <item>Ya Rahman 298 adet </item>
+        <item>Ya Rahim 258 adet </item>
+        <item>Ya Melik 90 adet</item>
+        <item>Ya Kuddus 170 adet </item>
+        <item>Ya Selam 131 adet </item>
+        <item>Ya Mü\'min 137 adet </item>
+        <item>Ya Müheymin 145 adet </item>
+        <item>Ya Aziz 94 adet</item>
+        <item>Ya Cebbar 206 adet</item>
+        <item>Ya Mütekebbir 662 adet</item>
+        <item>Ya Halık 731 adet</item>
+        <item>Ya Bari 214 adet</item>
+        <item>Ya Musavvir 336 adet</item>
+        <item>Ya Gaffar 1281 adet</item>
+        <item>Ya Kahhar 306 adet</item>
+        <item>Ya Vehhab 14 adet</item>
+        <item>Ya Rezzak 308 adet</item>
+        <item>Ya Fettah 489 adet</item>
+        <item>Ya Alim 150 adet</item>
+        <item>Ya Kabit 903 adet</item>
+        <item>Ya Basit 72 adet</item>
+        <item>Ya Hafiz 1481 adet</item>
+        <item>Ya Rafi\' 351 adet</item>
+        <item>Ya Muiz 117 adet</item>
+        <item>Ya Muzil 770 adet</item>
+        <item>Ya Semi\' 180 adet</item>
+        <item>Ya Basir 302 adet</item>
+        <item>Ya Hakem 68 adet</item>
+        <item>Ya Adl 104 adet</item>
+        <item>Ya LAtif 129 adet</item>
+        <item>Ya Habir 812 adet</item>
+        <item>Ya Halim 88 adet</item>
+        <item>Ya Azim 1020 adet</item>
+        <item>Ya Gafur 1286 adet</item>
+        <item>Ya Şekur 526 adet</item>
+        <item>Ya Aliyy 110 adet</item>
+        <item>Ya Kebir 232 adet</item>
+        <item>Ya Hafiz 998 adet</item>
+        <item>Ya Mukit 550 adet</item>
+        <item>Ya Hasib 80 adet</item>
+        <item>Ya Celil 73 adet</item>
+        <item>Ya Kerim 270 adet</item>
+        <item>Ya Rakib 312 adet</item>
+        <item>Ya Mucib 55 adet</item>
+        <item>Ya Vasi\' 137 adet</item>
+        <item>Ya Hakim 78 adet</item>
+        <item>Ya Vedud 20 adet</item>
+        <item>Ya Mecid 57 adet</item>
+        <item>Ya Bais 573 adet</item>
+        <item>Ya Şehid 319 adet</item>
+        <item>Ya Hakk 108 adet</item>
+        <item>Ya Vekil 66 adet</item>
+        <item>Ya Kaviyy 116 adet</item>
+        <item>Ya Metin 500 adet</item>
+        <item>Ya Veliyy 46 adet</item>
+        <item>Ya Hamid 62 adet</item>
+        <item>Ya Muhsi 148 adet</item>
+        <item>Ya Mübdi 57 adet</item>
+        <item>Ya Muid 124 adet</item>
+        <item>Ya Muhyi 68 adet</item>
+        <item>Ya Mumit 490 adet</item>
+        <item>Ya Hayy 18 adet</item>
+        <item>Ya Kayyum 156 adet</item>
+        <item>Ya Vacid 14 adet</item>
+        <item>Ya Macid 48 adet</item>
+        <item>Ya Vahid 19 adet</item>
+        <item>Ya Samed 134 adet</item>
+        <item>Ya Kadir 305 adet</item>
+        <item>Ya Muktedir 744 adet</item>
+        <item>Ya Mukaddim 184 adet</item>
+        <item>Ya Muahhir 847 adet</item>
+        <item>Ya Evvel 37 adet</item>
+        <item>Ya Ahir 801 adet</item>
+        <item>Ya Zahir 1106 adet</item>
+        <item>Ya Batın 62 adet</item>
+        <item>Ya Vali 47 adet</item>
+        <item>Ya Müteali 551 adet</item>
+        <item>Ya Berr 202 adet</item>
+        <item>Ya Tevvab 409 adet</item>
+        <item>Ya Müntakim 630 adet</item>
+        <item>Ya Afuvv 156 adet</item>
+        <item>Ya Rauf 287 adet</item>
+        <item>Ya Malikül Mülk 212 adet</item>
+        <item>Ya Zül Celali vel İkram 1100 adet</item>
+        <item>Ya Muksit 209 adet</item>
+        <item>Ya Cami 114 adet</item>
+        <item>Ya Ganiyy 1060 adet</item>
+        <item>Ya Muğni 1100 adet</item>
+        <item>Ya Mani 161 adet</item>
+        <item>Ya Darr 1001 adet</item>
+        <item>Ya Nafi 201 adet</item>
+        <item>Ya Nur 256 adet</item>
+        <item>Ya Hadi 20 adet</item>
+        <item>Ya Bedi\' 86 adet</item>
+        <item>Ya Baki 113 adet</item>
+        <item>Ya Varis 707 adet</item>
+        <item>Ya Reşid 514 adet</item>
+        <item>Ya Sabur 298 adet</item>
+    </string-array>
+
+    <integer-array name="ZikirSayisi">
+        <item>0</item>
+        <item>66</item>
+        <item>298</item>
+        <item>258</item>
+        <item>90</item>
+        <item>170</item>
+        <item>131</item>
+        <item>137</item>
+        <item>145</item>
+        <item>94</item>
+        <item>206</item>
+        <item>662</item>
+        <item>731</item>
+        <item>214</item>
+        <item>336</item>
+        <item>1281</item>
+        <item>306</item>
+        <item>14</item>
+        <item>308</item>
+        <item>489</item>
+        <item>150</item>
+        <item>903</item>
+        <item>72</item>
+        <item>1481</item>
+        <item>351</item>
+        <item>117</item>
+        <item>770</item>
+        <item>180</item>
+        <item>302</item>
+        <item>68</item>
+        <item>104</item>
+        <item>129</item>
+        <item>812</item>
+        <item>88</item>
+        <item>1020</item>
+        <item>1286</item>
+        <item>526</item>
+        <item>110</item>
+        <item>232</item>
+        <item>998</item>
+        <item>550</item>
+        <item>80</item>
+        <item>73</item>
+        <item>270</item>
+        <item>312</item>
+        <item>55</item>
+        <item>137</item>
+        <item>78</item>
+        <item>20</item>
+        <item>57</item>
+        <item>573</item>
+        <item>319</item>
+        <item>108</item>
+        <item>66</item>
+        <item>116</item>
+        <item>500</item>
+        <item>46</item>
+        <item>62</item>
+        <item>148</item>
+        <item>57</item>
+        <item>124</item>
+        <item>68</item>
+        <item>490</item>
+        <item>18</item>
+        <item>156</item>
+        <item>14</item>
+        <item>48</item>
+        <item>19</item>
+        <item>134</item>
+        <item>305</item>
+        <item>744</item>
+        <item>184</item>
+        <item>847</item>
+        <item>37</item>
+        <item>801</item>
+        <item>1106</item>
+        <item>62</item>
+        <item>47</item>
+        <item>551</item>
+        <item>202</item>
+        <item>409</item>
+        <item>630</item>
+        <item>156</item>
+        <item>287</item>
+        <item>212</item>
+        <item>1100</item>
+        <item>209</item>
+        <item>114</item>
+        <item>1060</item>
+        <item>1100</item>
+        <item>161</item>
+        <item>1001</item>
+        <item>201</item>
+        <item>256</item>
+        <item>20</item>
+        <item>86</item>
+        <item>113</item>
+        <item>707</item>
+        <item>514</item>
+        <item>298</item>
+    </integer-array>
+
+</resources>

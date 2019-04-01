@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+
+    <CheckBoxPreference
+        android:key="titresim"
+        android:summary="Butona dokunulduğunda titreşim oluşsun mu?"
+        android:summaryOff="Titreşim kapalı"
+        android:summaryOn="Titreşim açık"
+        android:title="Titreşim" />
+
+    <CheckBoxPreference
+        android:key="ses"
+        android:summary="Butona dokunulduğunda ses efekti çalsın mı?"
+        android:summaryOff="Ses kapalı"
+        android:summaryOn="Ses açık"
+        android:title="Ses" />
+   
+
+</PreferenceScreen>
